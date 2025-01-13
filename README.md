@@ -61,5 +61,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 Contact
 For questions or feedback, contact:
 
-Email: lsarode2000@gmail.com.com
-GitHub: Lokesh0073
+Email: mamtashri1999@gmail.com
+GitHub: Mamta126
